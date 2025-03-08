@@ -12,3 +12,8 @@ Adding text to index.md
 ``` python
 print("Hello World!")
 ```
+
+- [x] Learn Git
+- [x] Learn markdown
+- [ ] Update README
+- [ ] Turn on Github pages
